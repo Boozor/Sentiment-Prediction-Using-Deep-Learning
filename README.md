@@ -1,5 +1,5 @@
 # Model_for_prediciting_sentiments
-##Four Models
+## Four Models
 This project contains four models with differnt kind of layers namely:
 1. CNN
 2. GRU
